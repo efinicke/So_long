@@ -1,5 +1,5 @@
 # SO LONG
-![C](https://img.shields.io/static/v1?label=Code%20utilisé&message=75%&color=brightgreen)
+![C](https://img.shields.io/static/v1?label=C=75%&color=brightgreen)
 
 
 ## 1. Skills
