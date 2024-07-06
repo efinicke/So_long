@@ -1,7 +1,7 @@
 # So Long
 ![Code en C](https://img.shields.io/static/v1?label=C&message=100%&color=blue)
 
-## 1. Skills
+## Skills
 
 - **Programming in C according to the Norm**
 - **Window management and graphical display with a graphical library "MiniLibX"**
@@ -11,18 +11,17 @@
 - **map parsing**
 - **Dynamic memory management**
 - **Structures management**
-- **Makefile creation**
+- **Build Automation (Makefile scripting)**
 - **Clean code**
 
 
-## 2. Project Overview
+## Project Overview
 
 "So long" est un de mes projet 42 qui m'a appris à coder un jeu 2D simple et fonctionnel en C où le joueur contrôle un personnage qui doit collecter des items et atteindre la sortie sur une carte définie, et donc à intégrer l'usage d'une librairie graphique dans mon code. Le jeu utilise en effet la bibliothèque graphique MiniLibX pour l'affichage et la gestion des événements. Il m'a permis de créer et utiliser des sprites pour l'affichage et à gérer les interractions utilisateur via le clavier.
 
 
-## 3. Features
+## Features
 
-Le programme inclut les fonctionnalités suivantes :
 - Déplacement du personnage avec les touches W, A, S, D
 - Affichage des mouvements du personnage dans le shell
 - Collecte d'items sur la carte
@@ -31,17 +30,16 @@ Le programme inclut les fonctionnalités suivantes :
 - Fermeture propre de la fenêtre avec la touche ESC ou en cliquant sur la croix
 
 
-## 4. Content
+## Content
 
 Le projet contient les fichiers suivants :
 - **Fichiers srcs, includes, de compilation**: *.c, *.h, Makefile
 - **maps**: *.ber
-- **Sprites et textures**: images de jeu
-- **Bibliothèque MiniLibX**: fichiers de la bibliothèque
-- **Mlx**
+- **Sprites et textures**
+- **Bibliothèque MiniLibX**
 
 
-## 5. Usage
+## Usage
 
 1. ### Installation 
 La Mlx est déjà téléchargée et intégrée dans le projet, mais il faut aussi installer X11 et Xext sur votre système. La minilibx de 42 utilise ces bibliothèques pour l'affichage graphique : 
