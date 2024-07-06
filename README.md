@@ -1,5 +1,5 @@
 # So Long
-![Code en C](https://img.shields.io/static/v1?label=C&message=50%&color=blue)
+![Code en C](https://img.shields.io/static/v1?label=C&message=100%&color=blue)
 
 ## 1. Skills
 
