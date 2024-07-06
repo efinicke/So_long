@@ -19,6 +19,8 @@
 
 "So long" est un de mes projet 42 qui m'a appris à coder un jeu 2D simple et fonctionnel en C où le joueur contrôle un personnage qui doit collecter des items et atteindre la sortie sur une carte définie, et donc à intégrer l'usage d'une librairie graphique dans mon code. Le jeu utilise en effet la bibliothèque graphique MiniLibX pour l'affichage et la gestion des événements. Il m'a permis de créer et utiliser des sprites pour l'affichage et à gérer les interractions utilisateur via le clavier.
 
+![Little Prisoner](images/little_prisoner.png)
+
 
 ## Features
 
