@@ -1,13 +1,12 @@
-# SO LONG
-![C](https://img.shields.io/static/v1?label=C=75%&color=brightgreen)
-
+# So Long
+![Code en C](https://img.shields.io/static/v1?label=C&message=50%&color=blue)
 
 ## 1. Skills
 
+- **Programming in C according to the Norm**
 - **Window management and graphical display with a graphical library "MiniLibX"**
 - **event handling (keyboard and mouse)**
 - **Use of textures and sprites**
-- **Programming in C according to the Norm**
 - **Files manipulation**
 - **map parsing**
 - **Dynamic memory management**
@@ -39,7 +38,7 @@ Le projet contient les fichiers suivants :
 - **maps**: *.ber
 - **Sprites et textures**: images de jeu
 - **Bibliothèque MiniLibX**: fichiers de la bibliothèque
-- Mlx
+- **Mlx**
 
 
 ## 5. Usage
@@ -76,5 +75,5 @@ Utiliser le fichier .ber de son choix en remplacant l'étoile par le nom du fich
 
 "MiniLibX is a tiny graphics library which allows you to do the most basic things for rendering something in screens without any knowledge of X-Window and Cocoa. It provides so-called simple window creation, a questionable drawing tool, half-ass image functions and a weird event management system."
 
-To understand how to use the Mlx in your code : 
+To learn more on or understand how to use the Mlx in your code : 
 [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx/introduction.html)
